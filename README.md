@@ -1,4 +1,4 @@
-## 🎤 Project Description — PitchPerfect
+## Project Description — PitchPerfect
 
 **PitchPerfect** is a **machine learning–driven real-time pitch coaching system**, developed as part of a **Machine Learning project under Prof. Sundeep Rangan at New York University (NYU)**.
 
@@ -29,6 +29,20 @@ The system watches your slides, listens to your voice, and analyzes your facial 
 The core objective is to **lower an investor’s perceived risk** by improving pitch delivery at the moments that matter most.
 
 I utilized vibe engineering tools like **Claude**, **Cursor**, and **Anthropic** for designing.
+
+---
+
+## 📱 App Screenshots
+
+### Landing Page
+![Landing Page](screenshots/Landing Page.jpg)
+
+### Module View
+![Module 1 & 2](screenshots/Module1-2.jpg)
+![Module 3](screenshots/Module3.jpg)
+
+###Live Demo
+![Pitch](screenshots/Pitch.jpg)
 
 ---
 
