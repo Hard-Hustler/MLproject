@@ -6,6 +6,22 @@ The motivation behind this project stems from a harsh reality in the startup eco
 
 Open [http://localhost:3000](http://localhost:3000) or https://pitch-perfect-id44.vercel.app/ with your browser to see the result.
 
+---
+
+## 📱 App Screenshots
+
+### Landing Page
+![Landing Page](screenshots/LandingPage.jpg)
+
+### Module View
+![Module 1 & 2](screenshots/Module1-2.jpg)
+![Module 3](screenshots/Module3.jpg)
+
+### Live Demo
+![Pitch](screenshots/Pitch.jpg)
+
+---
+
 ### Why This Problem Matters
 
 Data highlights the challenge clearly:
@@ -29,20 +45,6 @@ The system watches your slides, listens to your voice, and analyzes your facial 
 The core objective is to **lower an investor’s perceived risk** by improving pitch delivery at the moments that matter most.
 
 I utilized vibe engineering tools like **Claude**, **Cursor**, and **Anthropic** for designing.
-
----
-
-## 📱 App Screenshots
-
-### Landing Page
-![Landing Page](screenshots/Landing Page.jpg)
-
-### Module View
-![Module 1 & 2](screenshots/Module1-2.jpg)
-![Module 3](screenshots/Module3.jpg)
-
-###Live Demo
-![Pitch](screenshots/Pitch.jpg)
 
 ---
 
