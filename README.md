@@ -19,7 +19,11 @@ Open [http://localhost:3000](http://localhost:3000) or https://pitch-perfect-id4
 
 ### Live Demo
 ![Pitch](screenshots/Pitch.jpg)
-[![Pitch](screenshots/LandingPage.jpg)](https://youtu.be/-eLhI2Bawjs)
+
+---
+
+## Demo Video
+[https://youtu.be/-eLhI2Bawjs](https://youtu.be/-eLhI2Bawjs)
 
 ---
 
