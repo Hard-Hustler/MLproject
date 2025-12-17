@@ -19,7 +19,7 @@ Open [http://localhost:3000](http://localhost:3000) or https://pitch-perfect-id4
 
 ### Live Demo
 ![Pitch](screenshots/Pitch.jpg)
-![Pitch](https://github.com/Hard-Hustler/MLproject/screenshots/PitchPerfect.mov)
+![Pitch](screenshots/PitchPerfect.mov)](https://youtu.be/-eLhI2Bawjs)
 
 ---
 
