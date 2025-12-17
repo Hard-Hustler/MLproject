@@ -28,6 +28,8 @@ The system watches your slides, listens to your voice, and analyzes your facial 
 
 The core objective is to **lower an investor’s perceived risk** by improving pitch delivery at the moments that matter most.
 
+I utilized vibe engineering tools like **Claude**, **Cursor**, and **Anthropic** for designing.
+
 ---
 
 ## ⚙️ How the System Works
